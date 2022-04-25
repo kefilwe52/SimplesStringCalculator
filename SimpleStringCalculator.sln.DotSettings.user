@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3afcd18b_002D0531_002D48e2_002Da95a_002D86e77c402008/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddShouldThrowExceptionIfStringInputContainsNegativeNumbers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A63CA81D-6BA4-4298-BADD-1443EAF4F7CA::.NETCoreApp,Version=v3.1::StringCalculatorTests.StringCalculatorTest.AddShouldThrowExceptionIfStringInputContainsNegativeNumbers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A63CA81D-6BA4-4298-BADD-1443EAF4F7CA::.NETCoreApp,Version=v3.1::StringCalculatorTests.StringCalculatorTest.AddShouldThrowFormatExceptionIfStringIsInvalid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

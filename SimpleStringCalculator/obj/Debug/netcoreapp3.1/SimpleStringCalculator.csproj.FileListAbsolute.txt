@@ -1,0 +1,14 @@
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp3.1\SimpleStringCalculator.exe
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp3.1\SimpleStringCalculator.deps.json
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp3.1\SimpleStringCalculator.runtimeconfig.json
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp3.1\SimpleStringCalculator.runtimeconfig.dev.json
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp3.1\SimpleStringCalculator.dll
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\bin\Debug\netcoreapp3.1\SimpleStringCalculator.pdb
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp3.1\SimpleStringCalculator.csproj.AssemblyReference.cache
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp3.1\SimpleStringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp3.1\SimpleStringCalculator.AssemblyInfoInputs.cache
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp3.1\SimpleStringCalculator.AssemblyInfo.cs
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp3.1\SimpleStringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp3.1\SimpleStringCalculator.dll
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp3.1\SimpleStringCalculator.pdb
+C:\Users\kmkhwanazi\source\repos\SimpleStringCalculator\SimpleStringCalculator\obj\Debug\netcoreapp3.1\SimpleStringCalculator.genruntimeconfig.cache
